@@ -1,1 +1,2 @@
-## Example of bodyweight and height
+## Example of bodyweight and height KMeans Clustering
+
